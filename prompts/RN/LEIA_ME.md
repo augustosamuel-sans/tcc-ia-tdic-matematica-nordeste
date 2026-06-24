@@ -1,0 +1,1 @@
+# RN - Prompts de Pesquisa  - `01_prompts_ativos`: usar agora - `02_historico_rodadas`: manter historico  Coleta de respostas fica em: - ../../coleta_md_por_estado/RN/atual
